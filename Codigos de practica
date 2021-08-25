@@ -1,1 +1,11 @@
-...
+public class Main<num> {
+
+    public static void main(String[] args) {
+
+string nombre = Franco;
+int edad = 19; 
+float salario = 50000.00;
+boolean carnet = verdadero; 
+
+   }
+}
